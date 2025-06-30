@@ -97,7 +97,7 @@ If you use this work, please cite as:
 
 ## License
 
-This project is licensed under the MIT License – you are free to use, modify, and distribute the code and data for personal or academic purposes.
+This project is licensed under the MIT License – you are free to use and modify the code and data for personal or academic purposes.
 
 
 
