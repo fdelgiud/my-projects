@@ -26,9 +26,9 @@ we explore whether the **built environment** can act as a **protective factor** 
 
 * **Data Sources**:
 
-  * School locations (1990–2024)
-  * School shooting incident records
-  * Geolocated data on public amenities (e.g., OpenStreetMap, city datasets)
+  * School locations (1990–2024) (e.g., OpenStreetMap)
+  * School shooting incident records from the **[K-12 School Shooting Database](https://www.chds.us/ssdb/)**
+  * Geolocated data on public amenities (e.g., OpenStreetMap)
 
 * **Analytical Techniques**:
 
@@ -43,15 +43,6 @@ we explore whether the **built environment** can act as a **protective factor** 
 * Higher density of social/community-oriented facilities near schools **correlates with fewer shooting incidents**.
 * **Clusters** of incidents often appear in areas with **sparse infrastructure** or fewer public engagement spaces.
 * Results **do not claim causality** but suggest that **urban design and social infrastructure** may influence safety outcomes.
-
----
-
-## Implications for Smart Cities
-
-* **Smart City planning** should include investments in social infrastructure as part of **violence prevention strategies**.
-* Creating inclusive, accessible community spaces can contribute to **safer and more resilient neighborhoods**.
-* Findings can guide policymakers, urban planners, and public safety officials.
-
 
 ---
 
@@ -77,7 +68,7 @@ pip install -r requirements.txt
 
 If you use this work, please cite as:
 
-> "\[F.Del Giudice, C.Mariani]. (2025). * To what extent does the presence of social places reduce the likelihood of a school shooting in Chicago?*."
+> "\[F.Del Giudice, C.Mariani]. (2025). * To what extent does the presence of social places reduce the likelihood of a school shooting in Chicago*"
 
 ---
 
@@ -85,5 +76,10 @@ If you use this work, please cite as:
 
 This project is licensed under the MIT License. See `LICENSE` for more information.
 
+
+
+
+
+  
 
 
