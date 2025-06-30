@@ -87,19 +87,17 @@ To run this project, make sure you have Python 3.8+ and install the required pac
 
 ---
 
----
-
 ## Citation
 
 If you use this work, please cite as:
 
-> "\[F.Del Giudice, C.Mariani]. (2025). *To what extent does the presence of social places reduce the likelihood of a school shooting in Chicago*"
+> "\[F.Del Giudice, C.Mariani]. (2025). *To what extent does the presence of social places reduce the likelihood of a school shooting in Chicago? Case study from 1990 to 2024*"
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License – you are free to use, modify, and distribute the code and data for personal or academic purposes.
 
 
 
