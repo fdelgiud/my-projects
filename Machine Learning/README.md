@@ -60,11 +60,9 @@ If you use or refer to this work, please cite it as:
 
 > *F.Del Giudice, G.Righetti.* (2025). **Behind the Smoke: Analysis and Prediction Based on Biometric Data.**
 
----
 
 ## License
 
 This project is released under the **MIT License** – feel free to use or adapt the workflow and methodology for research or educational purposes.
 
----
 
