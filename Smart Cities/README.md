@@ -12,7 +12,6 @@ By integrating **geospatial data** on:
 
 we explore whether the **built environment** can act as a **protective factor** against violence in educational settings.
 
----
 
 ## Goals
 
@@ -20,7 +19,6 @@ we explore whether the **built environment** can act as a **protective factor** 
 * Use **clustering techniques** and **logistic regression** to detect meaningful spatial patterns.
 * Support urban planning policies that enhance **community infrastructure** to foster **safer educational environments**.
 
----
 
 ## Methodology
 
@@ -36,7 +34,6 @@ we explore whether the **built environment** can act as a **protective factor** 
   * **Logistic regression modeling** to assess associations
   * **Geospatial visualization** using Python libraries like `geopandas`, `folium`, and `matplotlib`
 
----
 
 ## Key Findings
 
@@ -44,16 +41,10 @@ we explore whether the **built environment** can act as a **protective factor** 
 * **Clusters** of incidents often appear in areas with **sparse infrastructure** or fewer public engagement spaces.
 * Results **do not claim causality** but suggest that **urban design and social infrastructure** may influence safety outcomes.
 
----
 
 ## Dependencies
 
 * Python ≥ 3.8
-Sure! Here's a revised **Dependencies** section with a cleaner and more structured format that separates packages by functionality (Data, Geospatial, Machine Learning, Visualization, and Statistical Analysis). This makes it easier for others to understand what each library is used for and why it's needed.
-
----
-
-## Dependencies
 
 To run this project, make sure you have Python 3.8+ and install the required packages:
 
