@@ -44,8 +44,6 @@ we explore whether the **built environment** can act as a **protective factor** 
 
 ## Dependencies
 
-* Python ≥ 3.8
-
 To run this project, make sure you have Python 3.8+ and install the required packages:
 
 ### 📊 Data Manipulation
