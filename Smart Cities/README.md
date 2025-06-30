@@ -49,18 +49,43 @@ we explore whether the **built environment** can act as a **protective factor** 
 ## Dependencies
 
 * Python ≥ 3.8
-* geopandas
-* pandas
-* scikit-learn
-* folium
-* matplotlib
-* seaborn
+Sure! Here's a revised **Dependencies** section with a cleaner and more structured format that separates packages by functionality (Data, Geospatial, Machine Learning, Visualization, and Statistical Analysis). This makes it easier for others to understand what each library is used for and why it's needed.
 
-Install with:
+---
 
-```bash
-pip install -r requirements.txt
-```
+## Dependencies
+
+To run this project, make sure you have Python 3.8+ and install the required packages:
+
+### 📊 Data Manipulation
+
+* `pandas` – Tabular data manipulation
+* `numpy` – Numerical operations and array handling
+
+### 🌍 Geospatial Analysis & Mapping
+
+* `geopandas` – Geospatial operations and shapefiles
+* `shapely` – Geometric operations on spatial objects
+* `folium` – Interactive leaflet maps
+* `geopy` – Geocoding and spatial distance calculations (optional, if used)
+
+### 📈 Visualization
+
+* `matplotlib` – Basic plotting and static visualizations
+* `seaborn` – Statistical data visualization
+* `yellowbrick` – Visual tools for machine learning (e.g. KElbowVisualizer)
+
+### 🧠 Machine Learning & Clustering
+
+* `scikit-learn` – Clustering, classification, metrics, and model evaluation
+
+  * Includes: `KMeans`, `AgglomerativeClustering`, `SpectralClustering`, `TSNE`, `StratifiedKFold`, and metrics like accuracy, F1, precision, recall
+
+* `statsmodels` – Statistical modeling and diagnostic tools
+
+  * Includes: `Logit` regression, `variance_inflation_factor`
+
+---
 
 ---
 
@@ -68,7 +93,7 @@ pip install -r requirements.txt
 
 If you use this work, please cite as:
 
-> "\[F.Del Giudice, C.Mariani]. (2025). * To what extent does the presence of social places reduce the likelihood of a school shooting in Chicago*"
+> "\[F.Del Giudice, C.Mariani]. (2025). *To what extent does the presence of social places reduce the likelihood of a school shooting in Chicago*"
 
 ---
 
