@@ -8,7 +8,7 @@ This project explores over a century of Olympic competitive pool swimming result
 View the full Tableau dashboard [here](https://public.tableau.com/app/profile/sara.nava2620/viz/TableauProject-OlympicsSwimmingAnalysis-WeareinVIZtogether_17064477021880/OlympicsSwimmingAnalysis).
 
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset includes results from Olympic swimming competitions and is sourced from the official Olympics website ([olympics.com](https://olympics.com)). Each row corresponds to either an individual swimmer or a relay team. The variables include:
 
@@ -24,7 +24,7 @@ The dataset includes results from Olympic swimming competitions and is sourced f
 - **Rank** — Final standing (gold, silver, bronze, no medal, disqualified, did not finish, no data)
 
 
-## 🎯 Goals
+## Goals
 
 - Analyze medal distribution and rank trends by gender, nation, and stroke type  
 - Identify standout athletes and dominant countries over the decades  
@@ -32,14 +32,14 @@ The dataset includes results from Olympic swimming competitions and is sourced f
 - Visualize how relay and individual events differ in outcomes
 
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Tableau Public** — For interactive dashboards and visual analysis  
 - **Python (for preprocessing, optional)** — Libraries like `pandas`, `numpy`, and `matplotlib` can be used for data cleaning and transformation (not required but recommended)
 
 
 
-## 👩‍💻 Authors
+## Authors
 
 - Francesca Del Giudice  
 - Sara Nava  
@@ -50,7 +50,7 @@ The dataset includes results from Olympic swimming competitions and is sourced f
 
 
 
-## 📜 License
+##  License
 
 This project is released under the **MIT License** – feel free to use or adapt the workflow and methodology for research or educational purposes.
 
