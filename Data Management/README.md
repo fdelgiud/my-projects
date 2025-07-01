@@ -59,10 +59,15 @@ This project was developed as part of a **Data Management** exam. The goal was t
 4. **Visualization**: Created visual comparisons between awards and public popularity
 
 
+## Citation
+
+If you use this project in your research or work, please cite as:
+
+> F. Del Giudice, M.Pantò, G.Righetti. (2024). *BEYOND THE STAGE: Navigating Music Awards & Spotify Insights (2013–2023).*
+
+
+
 ## License
 
 This project is released under the **MIT License** — feel free to use or adapt the workflow and methodology for research or educational purposes.
-
-
-### Authors: Francesca Del Giudice, Martina Pantò, Gaia Righetti
 
