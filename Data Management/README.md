@@ -14,7 +14,7 @@
 * 🏆 **Grammy Awards** – centered on artistic merit.
 * 🗳 **American Music Awards (AMAs)** – reflecting public opinion via online voting.
 
-The study spans from **2013 to 2023** (Grammys: 2014–2024), excluding non-music-related categories. To enrich the analysis, **Spotify** listening trends were integrated to reflect public sentiment and engagement.
+The study spans from **2013 to 2023**, excluding non-music-related categories. To enrich the analysis, **Spotify** listening trends were integrated to reflect public sentiment and engagement.
 
 
 ## Project Objective
