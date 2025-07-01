@@ -39,14 +39,12 @@ The dataset includes results from Olympic swimming competitions and is sourced f
 
 
 
-## Authors
+## Citation
 
-- Francesca Del Giudice  
-- Sara Nava  
-- Martina Pantò  
-- Gaia Righetti  
-- Alfredo Sestito  
-- Amen Sime Tadesse
+If you use this project in your research or work, please cite as:
+
+> F. Del Giudice, S.Nava, M.Pantò, G.Righetti, A.Sestito, A.S.Tadesse. (2024). *Tableau Project – Olympics Swimming Analysis.*
+
 
 
 
