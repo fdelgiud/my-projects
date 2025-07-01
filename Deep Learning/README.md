@@ -75,37 +75,6 @@ Challenges encountered in the dataset include:
 * Integrate **multi-view learning** or **contextual cues** (e.g., cooking tools, serving style) for ambiguous cases.
 
 
-## Dependencies
-
-To run the project, ensure Python 3.8+ and install the following:
-Great! Based on your updated list of dependencies and the use of **TensorFlow/Keras**, here’s an updated version of the **Dependencies** and **Methodology** sections in the `README.md` to reflect **exactly** the libraries you’re using:
-
----
-
-## Methodology
-
-* **Model Architecture:**
-
-  * Built using **TensorFlow 2 / Keras Sequential API**.
-  * Used convolutional layers for feature extraction and dense layers for classification.
-  * Applied dropout for regularization and softmax activation for multi-class classification.
-
-* **Preprocessing:**
-
-  * Images were resized and normalized.
-  * Data augmentation was applied via `ImageDataGenerator` to simulate real-world variation and prevent overfitting.
-
-* **Training Strategy:**
-
-  * Random seed fixed for full reproducibility: `numpy`, `python`, and `tensorflow` seeds set to 0.
-  * Trained with categorical cross-entropy loss and Adam optimizer.
-  * Performance tracked on a validation split; early stopping and learning rate reduction optionally applied.
-
-* **Evaluation:**
-
-  * Metrics included accuracy, precision, recall, and F1-score using `classification_report` from `sklearn`.
-  * Confusion matrices were visualized using `seaborn` heatmaps.
-  * Plots generated with `matplotlib` to visualize accuracy/loss curves and class-wise performance.
 
 
 ## Dependencies
@@ -136,5 +105,9 @@ If you use this project in your research or work, please cite as:
 
 > F. Del Giudice, G.Righetti. (2024). *Guess the Pasta: Exploring and Classifying Pasta Varieties using Deep Learning.*
 
+
+## License
+
+This project is released under the **MIT License** – feel free to use or adapt the workflow and methodology for research or educational purposes.
 
 
