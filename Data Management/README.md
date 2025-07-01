@@ -1,12 +1,10 @@
 
 
-# 🎶 BEYOND THE STAGE
-
-## Navigating Music Awards & Spotify Insights (2013–2023)
+# 🎶 BEYOND THE STAGE: Navigating Music Awards & Spotify Insights (2013–2023)
 
 
 
-## 🎯 Overview
+## Overview
 
 **BEYOND THE STAGE** investigates the intersection of industry recognition and public popularity by analyzing winners of three major U.S. music awards:
 
